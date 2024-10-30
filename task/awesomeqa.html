@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Page Title</title>
+    <style>
+        .no-arrow {
+            -webkit-appearance: none;
+            padding: 2px;           /* Optional: Adjust padding */
+        }
+      input[type=submit] {
+
+           font-weight: bold;
+           cursor: pointer;          /* Pointer cursor */
+        }
+
+
+  </style>
+
+</head>
+<body>
+<form>
+<b>First Name </b><input type="text"/>
+<br><br>
+<b>Last Name </b><input type="text"/>
+<br><br>
+<b>Gender</b>
+<input type ="radio" id="Male" name="Gender" valuee="Male"/><label for = "Male">Male</label>
+<input type ="radio" id= "Female" name="Gender" value="Female"/><label for = "Female">Female</label>
+<br><br>
+<b>Years of Experience</b>
+<input type ="radio" id="One" name="Experience" value="1"/><label for = "One">1</label>
+<input type ="radio" id="Two" name="Experience"value="2"/><label for = "Two">2</label>
+<input type ="radio"/><label for = "Experience">3</label>
+<input type ="radio"/><label for = "Experience">4</label>
+<input type ="radio"/><label for = "Experience">5</label>
+<input type ="radio"/><label for = "Experience">6</label>
+<input type ="radio"/><label for = "Experience">7</label>
+<br><br>
+<b>Date </b><input type="date"/>
+<br><br>
+<b>Profession </b>
+<input type="checkbox" id="Manual Tester" name="Profession" value="Manual Tester"/><label for = "Manual Tester">Manual Tester</label>
+<input type="checkbox" id="Automation Tester" name="Profession" value="Automation Tester"/><label for = "Automation Tester">Automation Tester</label>
+<br><br>
+<b>Automation Tools </b>
+<input type="checkbox" id="UFT" name="Tools" value="UFT"/><label for = "UFT">UFT</label>
+<input type="checkbox" id="Protractor" name="Tools" value="Protractor"/><label for = "Protractor">Protractor</label>
+<input type="checkbox" id="Selenium Webdriver" name="Tools" value="Selenium Webdriver"/><label for = "Selenium Webdriver">Selenium Webdriver</label>
+<br><br>
+<b>Continents </b>
+<select name="Continents" id="Continents" class="no-arrow">
+  <option value="Asia">Asia</option>
+  <option value="Europe">Europe</option>
+  <option value="Africa">Africa</option>
+  <option value="Austraila">Austraila</option>
+  <option value="South America">South America</option>
+  <option value="North America">North America</option>
+  <option value="Antartica">Antartica</option>
+</select>
+<br><br>
+<b>Selenium Commands  </b>
+<select name="Selenium Commands" id="Selenium Commands" multiple>
+  <option value="Browser Commands">Browser Commands</option>
+  <option value="Navigation Commands">Navigation Commands</option>
+  <option value="Switch Commands">Switch Commands</option>
+  <option value="Wait Commands">Wait Commands</option>
+  <option value="WebElement Commands">WebElement Commands</option>
+</select>
+<br><br>
+<b>Upload Image </b><input type="file" id="myfile" name="myfile"/>
+<br><br>
+<b>Download File </b>
+<a href="https://www.w3schools.com/images/myw3schoolsimage.jpg"Download>Click here to Download File</a>
+<br><br>
+<input type="submit" value="Submit" name="Button">
+
+
+</form>
+</body>
+</html>

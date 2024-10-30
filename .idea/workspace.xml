@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="65e31dd9-e65a-4331-8584-353882fccf3c" name="Changes" comment="26th">
+      <change afterPath="$PROJECT_DIR$/.idea/Py4XLearningSeleniumPrograms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task/awesomeqa.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task/testtask001.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;PramodDutta&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/PramodDutta/Py4XLearningSeleniumPrograms.git&quot;,
+    &quot;accountId&quot;: &quot;c24d73df-db27-47a4-81b1-38b9ef6ccae0&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2nSGKgPeaxQVd4t6wiccUMgPoU6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python tests.Python tests for Lab_Selenium_Alerts.test_alerts.executor": "Run",
+    "Python tests.Python tests for Lab_Selenium_Alerts.test_alerts_prompt.executor": "Run",
+    "Python tests.Python tests for test_Lab01.test_sample.executor": "Run",
+    "Python tests.Python tests for test_Lab02.test_open_vwo_login.executor": "Run",
+    "Python tests.Python tests for test_Lab03.test_open_vwo_login.executor": "Run",
+    "Python tests.Python tests for test_Lab04.test_task2.executor": "Run",
+    "Python tests.Python tests for test_Lab05.test_chorme_options.executor": "Run",
+    "Python tests.Python tests for test_Lab06.test_chrome_current_url_verification.executor": "Run",
+    "Python tests.Python tests for test_Lab07.test_chrome_current_url_verification.executor": "Run",
+    "Python tests.Python tests for test_Lab08.test_chrome_current_url_verification.executor": "Run",
+    "Python tests.Python tests for test_Lab09.test_negative_vwo_free_trail_project3.executor": "Run",
+    "Python tests.Python tests for test_Lab09.test_negative_vwo_login_project2.executor": "Run",
+    "Python tests.Python tests for test_Lab10.test_4.executor": "Run",
+    "Python tests.Python tests for test_Lab11.test_5.executor": "Run",
+    "Python tests.Python tests for test_Lab13.test_5.executor": "Run",
+    "Python tests.Python tests for test_Lab14.test_5.executor": "Run",
+    "Python tests.Python tests for test_Lab14_Explicit_Fluent_Wait.test_5.executor": "Run",
+    "Python tests.Python tests for test_Lab_Selenium_Actions_P1.test_verify_action_keyboard.executor": "Run",
+    "Python tests.Python tests for test_Lab_Selenium_Actions_P2.test_verify_action_keyboard.executor": "Run",
+    "Python tests.Python tests for test_Lab_Selenium_Actions_P3.test_verify_action_keyboard.executor": "Run",
+    "Python tests.Python tests for test_Lab_Selenium_Actions_makemytrip.test_verify_action_keyboard.executor": "Run",
+    "Python tests.Python tests for test_Lab_Selenium_Actions_makemytrip.test_verify_action_makemytrip.executor": "Run",
+    "Python tests.Python tests for test_Lab_Selenium_Exception_Handle.test_verify_svg.executor": "Run",
+    "Python tests.Python tests for test_Lab_Selenium_Exception_P1.test_verify_svg.executor": "Run",
+    "Python tests.Python tests for test_Lab_Selenium_Exception_StaleException.test_stale_element_exp_demo.executor": "Run",
+    "Python tests.Python tests for test_Lab_Selenium_Exception_StaleException.test_verify_svg.executor": "Run",
+    "Python tests.Python tests for test_Lab_Selenium_Exception_TimeOutExp.test_stale_element_exp_demo.executor": "Run",
+    "Python tests.Python tests for test_Lab_Selenium_JS_P1.test_js.executor": "Run",
+    "Python tests.Python tests for test_Lab_Selenium_JS_P1.test_verify_action_makemytrip.executor": "Run",
+    "Python tests.Python tests for test_Lab_Selenium_JS_P2.test_js.executor": "Run",
+    "Python tests.Python tests for test_Lab_Selenium_JS_P3.test_js.executor": "Run",
+    "Python tests.Python tests for test_Lab_Selenium_JS_P4.test_js.executor": "Run",
+    "Python tests.Python tests for test_Lab_Selenium_JS_P4.test_showdow_dom_js.executor": "Run",
+    "Python tests.Python tests for test_Lab_Selenium_Organize_CODE.TestSelenium.executor": "Run",
+    "Python tests.Python tests for test_Lab_Selenium_Organize_CODE.TestSelenium.test_js.executor": "Run",
+    "Python tests.Python tests for test_Lab_Selenium_SVG_Part1.test_alerts_js_alert.executor": "Run",
+    "Python tests.Python tests for test_Lab_Selenium_SVG_Part2.test_alerts_js_alert.executor": "Run",
+    "Python tests.Python tests for test_Lab_Selenium_SVG_Part2.test_verify_svg.executor": "Run",
+    "Python tests.Python tests for test_Lab_Selenium_Select.test_alerts_js_alert.executor": "Run",
+    "Python tests.Python tests for test_Lab_Selenium_Windows_Actions_JS.test_verify_action_makemytrip.executor": "Run",
+    "Python tests.Python tests for test_Lab_Selenium_Windows_P1.test_verify_action_makemytrip.executor": "Run",
+    "Python tests.Python tests for testtask001.test_test1.executor": "Run",
+    "Python tests.Python tests in test_Lab_Selenium_Actions_makemytrip.py.executor": "Run",
+    "Python tests.Python tests in test_Lab_Selenium_Organize_CODE.py.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/promode/PycharmProjects/Py4XLearningSeleniumPrograms/src/ex_7_JS_Execute"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/ex_7_JS_Execute" />
+      <recent name="$PROJECT_DIR$/src/ex_6_Selenium_Actions_Class" />
+      <recent name="$PROJECT_DIR$/src/ex_5_Selenium_24102024" />
+      <recent name="$PROJECT_DIR$/src/Ex_4_22102024_CSS_Selector" />
+      <recent name="$PROJECT_DIR$/src/ex_3_19102024_Locators" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Python tests for test_Lab09.test_negative_vwo_free_trail_project3" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Py4XLearningSeleniumPrograms" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_3_19102024_Locators" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab09.test_negative_vwo_free_trail_project3&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_Lab_Selenium_JS_P4.test_js" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Py4XLearningSeleniumPrograms" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_7_JS_Execute" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab_Selenium_JS_P4.test_js&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_Lab_Selenium_JS_P4.test_showdow_dom_js" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Py4XLearningSeleniumPrograms" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_7_JS_Execute" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab_Selenium_JS_P4.test_showdow_dom_js&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_Lab_Selenium_Organize_CODE.TestSelenium.test_js" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Py4XLearningSeleniumPrograms" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_7_JS_Execute" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab_Selenium_Organize_CODE.TestSelenium.test_js&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for testtask001.test_test1" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Py4XLearningSeleniumPrograms" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/task" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;testtask001.test_test1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for testtask001.test_test1" />
+        <item itemvalue="Python tests.Python tests for test_Lab09.test_negative_vwo_free_trail_project3" />
+        <item itemvalue="Python tests.Python tests for test_Lab_Selenium_JS_P4.test_showdow_dom_js" />
+        <item itemvalue="Python tests.Python tests for test_Lab_Selenium_JS_P4.test_js" />
+        <item itemvalue="Python tests.Python tests for test_Lab_Selenium_Organize_CODE.TestSelenium.test_js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-ce3d9afa04ac-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.20224.347" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65e31dd9-e65a-4331-8584-353882fccf3c" name="Changes" comment="" />
+      <created>1728959000584</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728959000584</updated>
+    </task>
+    <task id="LOCAL-00001" summary="dasda">
+      <option name="closed" value="true" />
+      <created>1729306360774</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729306360774</updated>
+    </task>
+    <task id="LOCAL-00002" summary="22nd Oct">
+      <option name="closed" value="true" />
+      <created>1729563966611</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729563966611</updated>
+    </task>
+    <task id="LOCAL-00003" summary="22nd Oct P2">
+      <option name="closed" value="true" />
+      <created>1729565768560</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729565768560</updated>
+    </task>
+    <task id="LOCAL-00004" summary="24th">
+      <option name="closed" value="true" />
+      <created>1729737547501</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729737547501</updated>
+    </task>
+    <task id="LOCAL-00005" summary="24th P2">
+      <option name="closed" value="true" />
+      <created>1729738652808</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729738652808</updated>
+    </task>
+    <task id="LOCAL-00006" summary="26th">
+      <option name="closed" value="true" />
+      <created>1729911328164</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1729911328164</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="dasda" />
+    <MESSAGE value="22nd Oct" />
+    <MESSAGE value="22nd Oct P2" />
+    <MESSAGE value="24th" />
+    <MESSAGE value="24th P2" />
+    <MESSAGE value="26th" />
+    <option name="LAST_COMMIT_MESSAGE" value="26th" />
+  </component>
+</project>
